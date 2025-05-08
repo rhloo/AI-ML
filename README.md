@@ -1,2 +1,2 @@
-# The-HosleR
-This is useful for Hostel managment application
+# AI/ML
+This is useful AI/Ml projects
